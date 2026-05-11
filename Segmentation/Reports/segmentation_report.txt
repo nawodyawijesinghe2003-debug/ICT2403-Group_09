@@ -1,0 +1,23 @@
+Final Segmentation Pipeline Report
+=================================
+
+Input Folder: D:\Downloads\IP_Project\Enhanced_frames
+Output Folder: D:\Downloads\IP_Project\Segmentation
+
+Detected Classes:
+1. Pothole - Red dots
+2. Alligator Cracking - Green contours
+3. Center Line Removal - Yellow contours
+
+Created Output Folders:
+1. ROI_masks
+2. Lane_masks
+3. Dark_damage_masks
+4. Pothole_masks
+5. Alligator_masks
+6. Combined_masks
+7. Segmented_frames
+8. Comparison_results
+9. Reports
+
+Total Frames Processed: 453
