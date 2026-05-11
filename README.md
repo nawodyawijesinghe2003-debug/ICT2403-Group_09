@@ -49,11 +49,7 @@ IP_Project/
 │
 ├── Enhacement/
 │   ├── Extracted_frames/
-│   ├── Gray_frames/
-│   ├── Denoised_frames/
-│   ├── CLAHE_frames/
 │   ├── Enhanced_frames/
-│   └── Comparison_results/
 │
 ├── Segmentation/
 │   ├── ROI_masks/
@@ -66,7 +62,6 @@ IP_Project/
 │   ├── Comparison_results/
 │   └── Report_figures/
 │
-├── input_videos/
-├── notebooks/
-├── report/
+├── Videos/
+├── reports/
 └── README.md
